@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Will",
+	"email": "abcd@test.com",
+	"phone": "987654321",
+	"city": "New Yourk",
+	"state": "New Yourk",
+	"country": "USA",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Good Customer"
+}

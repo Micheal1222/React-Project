@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "John",
+	"email": "tyrion@test.com",
+	"phone": "123412345",
+	"city": "Washington",
+	"state": "Washington",
+	"country": "USA",
+	"organization": "Company 3",
+	"jobProfile": "Designer",
+	"additionalInfo": "Good Client"
+}
